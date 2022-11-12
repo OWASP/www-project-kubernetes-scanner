@@ -2,21 +2,20 @@
 
 layout: col-sidebar
 title: OWASP Kubernetes Scanner
-tags: example-tag
+tags: kubernetes security
 level: 2
 type: 
-pitch: A very brief, one-line description of your project
+pitch: Kubernetes Security and Compliance Scanner.
 
 ---
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+<img src="assets/images/logo.png" height="80px">
 
-layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
+### Kubernetes Security Scanner
+It scans K8s cluster for misconfiguration, runtime issues, and compliance (NSA/CISA, CIS, PCI, SOC2) 
+violations. It also checks for node postures and hardening. It has default scan rules and
+we can write custom rules. We can get the reports on Slack and Elasticsearch.
 
-title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
+It is built around a NoSQL-style query engine, hence it is very lightweight, and the core engine is written in pure
+python. 
 
-tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-
-level: For projects, this is your project level (2 - Incubator, 3 - Lab, 3.5 - Production, 4 - Flagship)
-
-type: code, tool, documentation, or other
