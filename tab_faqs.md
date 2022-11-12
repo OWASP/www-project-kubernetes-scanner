@@ -3,7 +3,7 @@ title: FAQs
 layout:  null
 tab: true
 order: 1
-tags: faqs
+tags: kscanner
 ---
 ## Frequently Asked Questions
 ### What is ksec?

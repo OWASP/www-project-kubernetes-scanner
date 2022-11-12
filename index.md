@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Kubernetes Scanner
-tags: kubernetes security
+tags: kscanner
 level: 2
 type: 
 pitch: Kubernetes Security and Compliance Scanner.

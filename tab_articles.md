@@ -3,7 +3,7 @@ title: Articles
 layout:  null
 tab: true
 order: 2
-tags: articles
+tags: kscanner
 ---
 ## Awesome Articles on Kubernetes Security
 
