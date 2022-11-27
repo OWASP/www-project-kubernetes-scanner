@@ -2,7 +2,7 @@
 title: FAQs
 layout:  null
 tab: true
-order: 1
+order: 3
 tags: kscanner
 ---
 ## Frequently Asked Questions

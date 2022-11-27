@@ -11,8 +11,9 @@ tags: kscanner
 Pod having ServiceAccount token mounted, when get compromised can 
 lead to privilege escalation. *automountServiceAccountToken* need to be set explicitly to false.
 * Severity: Medium
-* Rule:  <pre><code>Pod=~(Spec.automountServiceAccountToken.exists()) | (
-                    Spec.automountServiceAccountToken == True)</code></pre>
+* Rule: ```Pod=~(Spec.automountServiceAccountToken.exists()) | (Spec.automountServiceAccountToken == True)```
 * Remediation: Set automountServiceAccountToken to false for ServiceAccount and Workloads. 
-* Tags: `CIS-5.1.6`  `checker` 
+* Tags: `CIS-5.1.6` &nbsp; &nbsp;  `checker` 
+
+### K002: 
 
