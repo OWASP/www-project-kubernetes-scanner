@@ -9,7 +9,11 @@ pitch: Kubernetes Security and Compliance Scanner.
 
 ---
 
-<img src="assets/images/logo.png" height="80px">
+<p align="center">
+  <img src="https://i.imgur.com/WN4NmI7.png"
+  width="200" alt="KubeLight Logo"/>
+</p>
+
 
 ### KubeLight - Kubernetes Security Scanner
 It scans K8s cluster for misconfiguration, runtime issues, and compliance (NSA/CISA, CIS, PCI, SOC2) 
