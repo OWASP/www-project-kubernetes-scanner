@@ -6,4 +6,4 @@ order: 3
 tags: kscanner
 ---
 ## Frequently Asked Questions
-### What is ksec?
+### What is KubeLight?

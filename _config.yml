@@ -1,5 +1,5 @@
 remote_theme: "owasp/www--site-theme@main"
-code_user: sttor
+code_user: owasp
 code_repo: kubelight
 plugins:
  - jekyll-include-cache-0.2.0
