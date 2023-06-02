@@ -15,5 +15,7 @@
 ### Change Log
 * [changes](#)
 
+### Licnse 
+* [Apache 2.0 License](https://github.com/OWASP/KubeLight/blob/main/LICENSE)
 
 
