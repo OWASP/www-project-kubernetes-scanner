@@ -1,0 +1,29 @@
+audience:
+  - builder
+community:
+  - name: owasp-kubelight
+    platform: slack
+    url: https://owasp.slack.com/archives/C04DRCN0D2A
+    description: "<https://github.com/OWASP/KubeLight>\nDiscussion, Contribution, and Questions."
+leaders:
+  - name: Raushan Raj
+    email: raushan.raj@owasp.org
+    github: sttor
+level: 2
+license:
+  - Apache-2.0
+name: OWASP KubeLight
+pitch: Kubernetes Security and Compliance Scanner.
+repositories:
+  - name: www-project-kubernetes-scanner
+    url: https://github.com/OWASP/www-project-kubernetes-scanner
+    description: 'OWASP Kubernetes Scanner '
+  - name: KubeLight
+    url: https://github.com/OWASP/KubeLight
+    description: OWASP Kubernetes security and compliance tool [WIP]
+tags:
+  - kscanner
+  - custom-tag-1
+  - custom-tag-2
+type: documentation
+website: https://owasp.org/www-project-kubernetes-scanner
